@@ -16,6 +16,10 @@ Repo: [https://github.com/dimalahmad/E-commerce](https://github.com/dimalahmad/E
 - **Desain Futuristik**: Animasi, glassmorphism, neon effect, dan UI modern.
 - **Responsif & Mobile Friendly**: Nyaman diakses dari perangkat apapun.
 
+## Demo
+
+Lihat demo aplikasi di YouTube: [Blangkis E-Commerce Demo](https://youtu.be/bIbOfMWVi6w)
+
 ---
 
 ## 🛠️ Teknologi
