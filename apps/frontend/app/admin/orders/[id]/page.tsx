@@ -430,11 +430,11 @@ export default function OrderDetailPage() {
                   <h3 className="font-medium text-gray-900 dark:text-white">Alamat Pengiriman</h3>
                 </div>
                 <div className="space-y-1 text-gray-900 dark:text-white/80">
-                  <p className="font-medium">{order.shipping?.name || '-'}</p>
-                  <p>{order.shipping?.email || '-'}</p>
-                  <p>{order.shipping?.phone || '-'}</p>
+                  <p className="font-medium">{order.shipping?.name ? order.shipping.name : '-'}</p>
+                  <p>{order.shipping?.email ? order.shipping.email : '-'}</p>
+                  <p>{order.shipping?.phone ? order.shipping.phone : '-'}</p>
                   <p>{order.shipping?.address || '-'}</p>
-                  <p>{order.shipping?.city || '-'}{order.shipping?.province ? `, ${order.shipping.province}` : ''}</p>
+                  <p>{order.shipping?.city || ''}{order.shipping?.province ? `, ${order.shipping.province}` : ''}</p>
                   <p>Kode Pos: {order.shipping?.postalCode || '-'}</p>
                 </div>
               </div>
