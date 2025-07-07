@@ -38,5 +38,13 @@
     "password": "budi123",
     "role": "konsumen",
     "joinedAt": "2025-07-07T02:07:16.043Z"
+  },
+  {
+    "id": "6",
+    "username": "imam",
+    "email": "imam@mail.com",
+    "password": "imam123",
+    "role": "konsumen",
+    "joinedAt": "2025-07-07T10:16:34.285Z"
   }
 ]

@@ -23,7 +23,7 @@
 @layer components {
   /* Glassmorphism Components */
   .glass {
-    @apply bg-white/10 backdrop-blur-md border border-white/20;
+    @apply bg-white dark:bg-white/10 backdrop-blur-md border border-white/20;
   }
   
   .glass-card {
@@ -168,7 +168,7 @@
 @layer components {
   /* Glassmorphism Components */
   .glass {
-    @apply bg-white/10 backdrop-blur-md border border-white/20;
+    @apply bg-white dark:bg-white/10 backdrop-blur-md border border-white/20;
   }
   
   .glass-card {

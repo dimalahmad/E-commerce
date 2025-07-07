@@ -1,4 +1,3 @@
-"use client";
 import { useEffect, useState } from 'react';
 import { useRouter, useParams } from 'next/navigation';
 import { apiClient } from '@/lib/api';
@@ -68,4 +67,4 @@ export default function CategoryProductsPage() {
       </div>
     </div>
   );
-}
+} 

@@ -56,7 +56,7 @@ export default function ProductCard({ product, index }: ProductCardProps) {
         transition={{ duration: 0.5, delay: index * 0.1 }}
         onHoverStart={() => setIsHovered(true)}
         onHoverEnd={() => setIsHovered(false)}
-        className="product-card group bg-white/80 dark:bg-dark-800 h-full flex flex-col"
+        className="product-card group bg-white dark:bg-dark-800 h-full flex flex-col"
       >
       {/* Image Container */}
       <div className="relative overflow-hidden rounded-t-xl">
