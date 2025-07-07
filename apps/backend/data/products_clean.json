@@ -1,0 +1,512 @@
+[
+  {
+    "id": "1001",
+    "name": "Blangkon Batik Premium",
+    "description": "Blangkon batik premium dengan motif tradisional yang elegan.",
+    "longDescription": "Blangkon Batik Premium adalah hasil karya seni tradisional yang menggabungkan keindahan motif batik dengan keanggunan blangkon Jawa. Setiap detail dibuat dengan teliti menggunakan bahan berkualitas tinggi yang nyaman dipakai.\n\nFitur Utama:\n Bahan premium yang lembut dan nyaman\n Motif batik tradisional yang autentik\n Teknik pembuatan manual yang teliti\n Ukuran yang dapat disesuaikan\n Cocok untuk berbagai acara formal\n\nPerawatan:\n Cuci dengan tangan menggunakan air dingin\n Jangan menggunakan pemutih\n Keringkan di tempat teduh\n Setrika dengan suhu rendah",
+    "price": 300000,
+    "originalPrice": 250000,
+    "discount": 10,
+    "images": [
+      "/images/blangkon-1.jpg",
+      "/images/blangkon-1-2.jpg"
+    ],
+    "categoryId": "1",
+    "stock": 104,
+    "isNew": true,
+    "isActive": true,
+    "specifications": {
+      "Bahan": "Kain batik premium",
+      "Ukuran": "Universal (dapat disesuaikan)",
+      "Warna": "Hitam dengan motif batik",
+      "Berat": "150 gram",
+      "Asal": "Yogyakarta, Indonesia",
+      "Garansi": "30 hari"
+    },
+    "features": [
+      "Bahan premium berkualitas tinggi",
+      "Motif batik tradisional autentik",
+      "Teknik pembuatan manual teliti",
+      "Ukuran dapat disesuaikan",
+      "Cocok untuk acara formal",
+      "Nyaman dipakai seharian"
+    ],
+    "rating": 4.8,
+    "reviews": 124,
+    "createdAt": "2024-07-05T10:00:00.000Z",
+    "updatedAt": "2025-07-06T15:48:22.080Z"
+  },
+  {
+    "id": "1002",
+    "name": "Blangkon Modern Hitam",
+    "description": "Blangkon modern dengan desain minimalis dan warna hitam elegan.",
+    "longDescription": "Blangkon Modern Hitam cocok untuk generasi muda yang ingin tampil stylish namun tetap menjaga tradisi. Dibuat dari bahan berkualitas dan nyaman dipakai seharian.",
+    "price": 200000,
+    "originalPrice": 180000,
+    "discount": 0,
+    "images": [
+      "/images/blangkon-2.jpg"
+    ],
+    "categoryId": "2",
+    "stock": 15,
+    "isNew": false,
+    "isActive": false,
+    "specifications": {
+      "Bahan": "Kain katun",
+      "Ukuran": "Universal",
+      "Warna": "Hitam polos",
+      "Berat": "140 gram",
+      "Asal": "Solo, Indonesia",
+      "Garansi": "14 hari"
+    },
+    "features": [
+      "Desain minimalis",
+      "Bahan ringan dan adem",
+      "Cocok untuk sehari-hari"
+    ],
+    "rating": 4.6,
+    "reviews": 89,
+    "createdAt": "2024-07-05T10:05:00.000Z",
+    "updatedAt": "2025-07-05T06:54:32.748Z"
+  },
+  {
+    "id": "1003",
+    "name": "Blangkon Tradisional Coklat",
+    "description": "Blangkon tradisional warna coklat dengan motif klasik.",
+    "longDescription": "Blangkon Tradisional Coklat dibuat dengan teknik tradisional dan bahan berkualitas. Nyaman dipakai untuk acara adat.",
+    "price": 170000,
+    "originalPrice": 150000,
+    "discount": 5,
+    "images": [
+      "/images/blangkon-3.jpg"
+    ],
+    "categoryId": "3",
+    "stock": 25,
+    "isNew": false,
+    "isActive": true,
+    "specifications": {
+      "Bahan": "Katun",
+      "Ukuran": "Universal",
+      "Warna": "Coklat",
+      "Berat": "145 gram"
+    },
+    "features": [
+      "Motif klasik",
+      "Cocok untuk acara adat"
+    ],
+    "rating": 4.7,
+    "reviews": 56,
+    "createdAt": "2024-07-01T09:00:00.000Z",
+    "updatedAt": "2024-07-05T10:10:00.000Z"
+  },
+  {
+    "id": "1004",
+    "name": "Blangkon Elegant Putih",
+    "description": "Blangkon putih elegan untuk acara formal.",
+    "longDescription": "Blangkon Elegant Putih cocok untuk pernikahan dan acara resmi. Bahan lembut dan nyaman.",
+    "price": 250000,
+    "originalPrice": 220000,
+    "discount": 10,
+    "images": [
+      "/images/blangkon-4.jpg"
+    ],
+    "categoryId": "2",
+    "stock": 6,
+    "isNew": true,
+    "isActive": true,
+    "specifications": {
+      "Bahan": "Katun premium",
+      "Ukuran": "Universal",
+      "Warna": "Putih",
+      "Berat": "135 gram"
+    },
+    "features": [
+      "Warna putih elegan",
+      "Nyaman dipakai"
+    ],
+    "rating": 4.9,
+    "reviews": 67,
+    "createdAt": "2024-07-02T10:00:00.000Z",
+    "updatedAt": "2025-07-07T04:34:12.046Z"
+  },
+  {
+    "id": 1005,
+    "name": "Blangkon Batik Biru",
+    "description": "Blangkon batik warna biru dengan motif modern.",
+    "longDescription": "Blangkon Batik Biru cocok untuk anak muda yang ingin tampil beda.",
+    "price": 200000,
+    "originalPrice": 175000,
+    "discount": 8,
+    "images": [
+      "/images/blangkon-5.jpg"
+    ],
+    "categoryId": "2",
+    "stock": 18,
+    "isNew": false,
+    "isActive": true,
+    "specifications": {
+      "Bahan": "Katun",
+      "Ukuran": "Universal",
+      "Warna": "Biru",
+      "Berat": "140 gram"
+    },
+    "features": [
+      "Motif modern",
+      "Warna biru cerah"
+    ],
+    "rating": 4.5,
+    "reviews": 34,
+    "createdAt": "2024-07-03T11:00:00.000Z",
+    "updatedAt": "2025-07-06T15:48:38.869Z"
+  },
+  {
+    "id": 1006,
+    "name": "Blangkon Anak Motif Wayang",
+    "description": "Blangkon anak dengan motif wayang lucu.",
+    "longDescription": "Blangkon khusus anak-anak dengan motif wayang khas Jawa.",
+    "price": 130000,
+    "originalPrice": 120000,
+    "discount": 0,
+    "images": [
+      "/images/blangkon-6.jpg"
+    ],
+    "categoryId": "3",
+    "stock": 30,
+    "isNew": true,
+    "isActive": true,
+    "specifications": {
+      "Bahan": "Katun",
+      "Ukuran": "Anak",
+      "Warna": "Coklat",
+      "Berat": "100 gram"
+    },
+    "features": [
+      "Motif wayang lucu",
+      "Ringan untuk anak"
+    ],
+    "rating": 4.3,
+    "reviews": 12,
+    "createdAt": "2024-07-04T12:00:00.000Z",
+    "updatedAt": "2024-07-05T10:14:00.000Z"
+  },
+  {
+    "id": 1007,
+    "name": "Blangkon Batik Merah",
+    "description": "Blangkon batik merah dengan motif unik.",
+    "longDescription": "Blangkon Batik Merah cocok untuk tampil berani dan berbeda.",
+    "price": 200000,
+    "originalPrice": 185000,
+    "discount": 7,
+    "images": [
+      "/images/blangkon-7.jpg"
+    ],
+    "categoryId": "2",
+    "stock": 12,
+    "isNew": false,
+    "isActive": true,
+    "specifications": {
+      "Bahan": "Katun",
+      "Ukuran": "Universal",
+      "Warna": "Merah",
+      "Berat": "142 gram"
+    },
+    "features": [
+      "Motif unik",
+      "Warna merah menyala"
+    ],
+    "rating": 4.4,
+    "reviews": 21,
+    "createdAt": "2024-07-05T13:00:00.000Z",
+    "updatedAt": "2024-07-05T10:15:00.000Z"
+  },
+  {
+    "id": 1008,
+    "name": "Blangkon Casual Hitam",
+    "description": "Blangkon casual warna hitam polos.",
+    "longDescription": "Blangkon Casual Hitam cocok untuk sehari-hari dan santai.",
+    "price": 140000,
+    "originalPrice": 130000,
+    "discount": 0,
+    "images": [
+      "/images/blangkon-8.jpg"
+    ],
+    "categoryId": "2",
+    "stock": 20,
+    "isNew": false,
+    "isActive": true,
+    "specifications": {
+      "Bahan": "Katun",
+      "Ukuran": "Universal",
+      "Warna": "Hitam",
+      "Berat": "120 gram"
+    },
+    "features": [
+      "Desain casual",
+      "Ringan dan adem"
+    ],
+    "rating": 4.2,
+    "reviews": 9,
+    "createdAt": "2024-07-06T14:00:00.000Z",
+    "updatedAt": "2024-07-06T10:16:00.000Z"
+  },
+  {
+    "id": 1009,
+    "name": "Blangkon Batik Hijau",
+    "description": "Blangkon batik hijau dengan motif segar.",
+    "longDescription": "Blangkon Batik Hijau cocok untuk acara outdoor dan kasual.",
+    "price": 190800,
+    "originalPrice": 175000,
+    "discount": 6,
+    "images": [
+      "/images/blangkon-9.jpg"
+    ],
+    "categoryId": "2",
+    "stock": 14,
+    "isNew": false,
+    "isActive": true,
+    "specifications": {
+      "Bahan": "Katun",
+      "Ukuran": "Universal",
+      "Warna": "Hijau",
+      "Berat": "138 gram"
+    },
+    "features": [
+      "Motif segar",
+      "Warna hijau cerah"
+    ],
+    "rating": 4.1,
+    "reviews": 7,
+    "createdAt": "2024-07-07T15:00:00.000Z",
+    "updatedAt": "2025-07-06T15:36:12.670Z"
+  },
+  {
+    "id": 1010,
+    "name": "Blangkon Batik Emas",
+    "description": "Blangkon batik warna emas untuk acara spesial.",
+    "longDescription": "Blangkon Batik Emas cocok untuk pernikahan dan acara penting.",
+    "price": 300000,
+    "originalPrice": 149999,
+    "discount": 15,
+    "images": [
+      "/images/blangkon-10.jpg"
+    ],
+    "categoryId": "1",
+    "stock": 5,
+    "isNew": true,
+    "isActive": true,
+    "specifications": {
+      "Bahan": "Katun premium",
+      "Ukuran": "Universal",
+      "Warna": "Emas",
+      "Berat": "155 gram"
+    },
+    "features": [
+      "Warna emas mewah",
+      "Cocok untuk acara spesial"
+    ],
+    "rating": 4.9,
+    "reviews": 18,
+    "createdAt": "2024-07-08T16:00:00.000Z",
+    "updatedAt": "2025-07-06T15:48:49.863Z"
+  },
+  {
+    "id": 1011,
+    "name": "Blangkon Batik Silver",
+    "description": "Blangkon batik warna silver modern.",
+    "longDescription": "Blangkon Batik Silver cocok untuk tampil modern dan elegan.",
+    "price": 399998,
+    "originalPrice": 280000,
+    "discount": 10,
+    "images": [
+      "/images/blangkon-11.jpg"
+    ],
+    "categoryId": "2",
+    "stock": 7,
+    "isNew": true,
+    "isActive": true,
+    "specifications": {
+      "Bahan": "Katun premium",
+      "Ukuran": "Universal",
+      "Warna": "Silver",
+      "Berat": "150 gram"
+    },
+    "features": [
+      "Warna silver modern",
+      "Motif elegan"
+    ],
+    "rating": 4.8,
+    "reviews": 11,
+    "createdAt": "2024-07-09T17:00:00.000Z",
+    "updatedAt": "2025-07-06T15:49:07.595Z"
+  },
+  {
+    "id": 1012,
+    "name": "Blangkon Batik Anak Biru",
+    "description": "Blangkon anak warna biru dengan motif lucu.",
+    "longDescription": "Blangkon Batik Anak Biru cocok untuk anak-anak yang suka warna cerah.",
+    "price": 150000,
+    "originalPrice": 140000,
+    "discount": 0,
+    "images": [
+      "/images/blangkon-12.jpg"
+    ],
+    "categoryId": "2",
+    "stock": 22,
+    "isNew": false,
+    "isActive": true,
+    "specifications": {
+      "Bahan": "Katun",
+      "Ukuran": "Anak",
+      "Warna": "Biru",
+      "Berat": "105 gram"
+    },
+    "features": [
+      "Motif lucu",
+      "Ringan untuk anak"
+    ],
+    "rating": 4,
+    "reviews": 5,
+    "createdAt": "2024-07-10T18:00:00.000Z",
+    "updatedAt": "2025-07-06T15:49:20.133Z"
+  },
+  {
+    "id": 1013,
+    "name": "Blangkon Batik Ungu",
+    "description": "Blangkon batik warna ungu dengan motif eksklusif.",
+    "longDescription": "Blangkon Batik Ungu cocok untuk tampil eksklusif dan berbeda.",
+    "price": 210000,
+    "originalPrice": 230000,
+    "discount": 9,
+    "images": [
+      "/images/blangkon-13.jpg"
+    ],
+    "categoryId": "2",
+    "stock": 10,
+    "isNew": false,
+    "isActive": true,
+    "specifications": {
+      "Bahan": "Katun",
+      "Ukuran": "Universal",
+      "Warna": "Ungu",
+      "Berat": "143 gram"
+    },
+    "features": [
+      "Motif eksklusif",
+      "Warna ungu cerah"
+    ],
+    "rating": 4.3,
+    "reviews": 8,
+    "createdAt": "2024-07-11T19:00:00.000Z",
+    "updatedAt": "2024-07-11T10:21:00.000Z"
+  },
+  {
+    "id": 1014,
+    "name": "Blangkon Batik Pink",
+    "description": "Blangkon batik warna pink untuk anak perempuan.",
+    "longDescription": "Blangkon Batik Pink cocok untuk anak perempuan yang suka tampil ceria.",
+    "price": 135000,
+    "originalPrice": 150000,
+    "discount": 0,
+    "images": [
+      "/images/blangkon-14.jpg"
+    ],
+    "categoryId": "2",
+    "stock": 16,
+    "isNew": true,
+    "isActive": true,
+    "specifications": {
+      "Bahan": "Katun",
+      "Ukuran": "Anak",
+      "Warna": "Pink",
+      "Berat": "110 gram"
+    },
+    "features": [
+      "Motif ceria",
+      "Ringan untuk anak"
+    ],
+    "rating": 4.2,
+    "reviews": 6,
+    "createdAt": "2024-07-12T20:00:00.000Z",
+    "updatedAt": "2024-07-12T10:22:00.000Z"
+  },
+  {
+    "id": 1015,
+    "name": "Blangkon Batik Kuning",
+    "description": "Blangkon batik warna kuning dengan motif cerah.",
+    "longDescription": "Blangkon Batik Kuning cocok untuk acara keluarga dan santai.",
+    "price": 140000,
+    "originalPrice": 155000,
+    "discount": 5,
+    "images": [
+      "/images/blangkon-15.jpg"
+    ],
+    "categoryId": "2",
+    "stock": 13,
+    "isNew": false,
+    "isActive": true,
+    "specifications": {
+      "Bahan": "Katun",
+      "Ukuran": "Universal",
+      "Warna": "Kuning",
+      "Berat": "115 gram"
+    },
+    "features": [
+      "Motif cerah",
+      "Warna kuning segar"
+    ],
+    "rating": 4.1,
+    "reviews": 4,
+    "createdAt": "2024-07-13T21:00:00.000Z",
+    "updatedAt": "2025-07-05T06:47:10.193Z"
+  },
+  {
+    "id": 1016,
+    "name": "Blangkon Batik Abu",
+    "description": "Blangkon batik warna abu-abu modern.",
+    "longDescription": "Blangkon Batik Abu cocok untuk tampil modern dan kasual.",
+    "price": 155000,
+    "originalPrice": 170000,
+    "discount": 3,
+    "images": [
+      "/images/blangkon-16.jpg"
+    ],
+    "categoryId": "2",
+    "stock": 11,
+    "isNew": false,
+    "isActive": true,
+    "specifications": {
+      "Bahan": "Katun",
+      "Ukuran": "Universal",
+      "Warna": "Abu-abu",
+      "Berat": "118 gram"
+    },
+    "features": [
+      "Motif modern",
+      "Warna abu-abu netral"
+    ],
+    "rating": 4,
+    "reviews": 3,
+    "createdAt": "2024-07-14T22:00:00.000Z",
+    "updatedAt": "2024-07-14T10:24:00.000Z"
+  },
+  {
+    "id": 1751813426798,
+    "name": "Banglon Anak",
+    "price": 100000,
+    "stock": 100,
+    "categoryId": "1",
+    "discount": 0,
+    "description": "",
+    "longDescription": "",
+    "originalPrice": 50000,
+    "images": [],
+    "isNew": false,
+    "isActive": true,
+    "specifications": {},
+    "features": [],
+    "rating": 0,
+    "reviews": 0,
+    "createdAt": "2025-07-06T14:50:26.798Z",
+    "updatedAt": "2025-07-06T14:50:26.798Z"
+  }
+]

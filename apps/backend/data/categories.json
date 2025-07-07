@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "Premium",
+    "productCount": 3
+  },
+  {
+    "id": "2",
+    "name": "Modern",
+    "productCount": 12
+  },
+  {
+    "id": "3",
+    "name": "Tradisional",
+    "productCount": 2
+  },
+  {
+    "id": "4",
+    "name": "Klasik",
+    "productCount": 0
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "name": "blangkis-ecommerce",
+  "version": "1.0.0",
+  "description": "Modern E-commerce platform for Blangkon products",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "start": "turbo run start",
+    "lint": "turbo run lint",
+    "setup": "yarn install && yarn workspace @blangkis/backend setup",
+    "db:migrate": "yarn workspace @blangkis/backend db:migrate",
+    "db:seed": "yarn workspace @blangkis/backend db:seed"
+  },
+  "devDependencies": {
+    "@types/react-select": "^5.0.1",
+    "nodemon": "^3.1.10",
+    "turbo": "^1.10.0"
+  },
+  "packageManager": "yarn@3.5.0",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "chart.js": "^4.5.0",
+    "file-saver": "^2.0.5",
+    "jspdf": "^3.0.1",
+    "jspdf-autotable": "^5.0.2",
+    "react-chartjs-2": "^5.3.0",
+    "xlsx": "^0.18.5"
+  }
+}
